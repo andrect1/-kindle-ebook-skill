@@ -1,4 +1,4 @@
-# kindle-ebook-skill
+# Claude Kindle Ebook Skill
 
 ![Banner kindle-ebook-skill](assets/banner.png)
 
