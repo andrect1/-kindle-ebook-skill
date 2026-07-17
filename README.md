@@ -1,5 +1,7 @@
 # kindle-ebook-skill
 
+![Banner kindle-ebook-skill](assets/banner.png)
+
 Skill para gerar e-books estilizados (.docx) para Amazon Kindle Direct Publishing (KDP),
 com layout colorido em "cards", capa persuasiva em SVG e otimização para o "Look Inside".
 
